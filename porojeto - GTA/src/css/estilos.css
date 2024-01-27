@@ -160,7 +160,6 @@ body{
     line-height: 1.6;
 }
 
-
 .compre-ja .informacoes .plataformas{
     display: flex;
     flex-wrap: wrap;
@@ -186,7 +185,6 @@ body{
 .compre-ja .btn-plataforma .plataformas li{
     padding: 20px;
 }
-
 
 .compre-ja .btn-plataforma .plataformas li:nth-child(1){
     border: 1px solid #00439c;
